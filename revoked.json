@@ -1,5 +1,7 @@
 {
-  "updated": 1781247234,
-  "revoked": [],
-  "sig": "02a33943ff70c626c30bab9746cc9ef98a4b041e9cd60b702e5ec3fc8c07362e"
+  "updated": 1781247267,
+  "revoked": [
+    "A1B2C3D4E5F6"
+  ],
+  "sig": "83b8095e9a1881481d6bb677f9039c792b54be0a432d37a92a888b9365d320b8"
 }
